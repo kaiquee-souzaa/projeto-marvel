@@ -1,0 +1,157 @@
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.dll.config
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.pdb
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.exe
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.exe.config
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.rsp
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.exe
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.exe.config
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.rsp
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.AppContext.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Console.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.exe
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.exe.config
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.rsp
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Helpers.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Mvc.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Razor.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Razor.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Razor.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Razor.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Helpers.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Mvc.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.csprojAssemblyReference.cache
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.csproj.CoreCompileInputs.cache
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.csproj.CopyComplete
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.pdb
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.SqlServer.dll
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.xml
+C:\Users\ADM\Desktop\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.SqlServer.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.dll.config
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Projeto_Marvel.pdb
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.exe
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.exe.config
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csc.rsp
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.exe
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.exe.config
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\csi.rsp
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.AppContext.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Console.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Compression.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.IO.Pipes.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Claims.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.ValueTuple.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XPath.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.exe
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.exe.config
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\vbc.rsp
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\VBCSCompiler.exe
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.SqlServer.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Helpers.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Mvc.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Razor.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Deployment.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Razor.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\EntityFramework.SqlServer.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Razor.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Deployment.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Webpages.Razor.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Helpers.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\System.Web.Mvc.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.csprojAssemblyReference.cache
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.csproj.CopyComplete
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.dll
+C:\Users\kaiqu\Documents\PC ANTIGO\DOCUMENTOS\DESKAO\Projeto_Marvel\Projeto_Marvel\obj\Debug\Projeto_Marvel.pdb

@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Contato";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br /><br /><br /><br />
+
+<div class="container">
+    <form method="post">
+        <table class="table table-borderless p-5">
+            <tr>
+                <td>
+                    <input name="fale.NOME" type="text" class="form-control" placeholder="Nome" />
+                    @Html.ValidationMessage("fale.NOME")
+                </td>
+                <td>
+                    <input name="fale.EMAIL" type="email" class="form-control" placeholder="Email" />
+                    @Html.ValidationMessage("fale.EMAIL")
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <textarea name="fale.ASSUNTO" class="form-control" rows="5"></textarea>
+                    @Html.ValidationMessage("fale.ASSUNTO")
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button type="submit" class="btn btn-block">Enviar Formulário</button>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
+<br /><br /><br /><br />

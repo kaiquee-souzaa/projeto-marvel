@@ -1,0 +1,82 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+
+    <script type="text/javascript" src="../js/jquery.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.js"></script>
+    <script type="text/javascript" src="../js/bootstrap.bundle.js"></script>
+
+    <title>_Layout</title>
+
+    <link href="../Styles/fontsCSS.css" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.css" />
+    <link rel="stylesheet" type="text/css" href="../Styles/style.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous" />
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top" id="menu">
+
+        <div class="container-fluid">
+
+            <a href="../"><img src="../img/icon.png" id="icon" class="navbar-brand" style="cursor: pointer; max-width: 100px;" /></a>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSite">
+                <ul class="navbar-nav">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Home/QmSomos">QUEM SOMOS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Home/Contato">CONTATO</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="../Home/ComoChegar">COMO CHEGAR</a>
+                    </li>
+                </ul>
+
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" runat="server" href="~/Account/Register">REGISTRAR-SE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" runat="server" href="~/Account/Login">ENTRAR</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <footer id="rodape">
+        <div class="row">
+            <div class="col-4">
+                <a href="../Home/ComoChegar">COMO CHEGAR?</a>
+            </div>
+            <div class="col-4 text-center">
+                <a href="http://instagram.com" target="_blank"><img class="img-fluid" src="~/img/instagram2-logo.png" /></a>
+                <a href="http://twitter.com" target="_blank"><img class="img-fluid" src="~/img/twitter-logo.png" /></a>
+            </div>
+            <div class="col-4">
+
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

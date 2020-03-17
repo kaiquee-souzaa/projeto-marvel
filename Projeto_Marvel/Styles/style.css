@@ -1,0 +1,68 @@
+﻿@charset "UTF-8";
+
+.scrollspy {
+    position: relative;
+    overflow: auto;
+    height: 350px;
+}
+
+body {
+    color: #343a40 !important;
+    font-family: 'Montserrat';
+}
+
+ul#header a {
+    color: white;
+}
+
+ul#header a:hover {
+    color: steelblue;
+}
+
+nav#menu {
+    background-color: #343a40 !important;
+    font-family: 'ITC Avant Garde Gothic Std Demi';
+}
+
+nav#menu a {
+    color: white;
+    font-weight: bold;
+}
+
+nav#menu ul a {
+    padding: 15px 10px;
+    letter-spacing: .5px;
+    transition: all ease-in-out .2s;
+}
+
+nav#menu ul a:hover {
+    color: gray;
+}
+
+footer#rodape {
+    height: 110px;
+    color: gray;
+    background-color: #343a40 !important;
+    font-family: 'Montserrat';
+    padding: 5%;
+    clear: both;
+}
+
+footer#rodape a {
+    font-family: 'Montserrat';
+    color: white;
+}
+
+footer#rodape a:hover {
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+div#end {
+    font-family: 'Montserrat';
+    background-color: black;
+    color: white;
+    clear: both;
+}
